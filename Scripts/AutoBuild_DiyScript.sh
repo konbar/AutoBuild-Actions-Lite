@@ -5,7 +5,7 @@
 Diy_Core() {
 
 	Author=konbar
-	Banner_Title="Powered by AutoBuild-Actions-Lite"
+	Banner_Title="Powered by AutoBuild-Actions"
 	Default_LAN_IP=192.168.99.1
 
 	Load_Common_Config=false
